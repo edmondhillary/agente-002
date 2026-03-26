@@ -1,0 +1,5 @@
+.env
+node_modules/
+google-credentials.json
+coverage/
+dist/
